@@ -1,0 +1,45 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Header Bar -->
+  <rect x="0" y="0" width="400" height="40" rx="8" fill="#161b22"/>
+  <circle cx="20" cy="20" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="5" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="5" fill="#27c93f"/>
+  <text x="200" y="25" font-family="sans-serif" font-size="12" fill="#8b949e" text-anchor="middle">Sales_Performance_Dashboard.twb</text>
+
+  <!-- Dashboard Mockup Elements -->
+  <!-- KPIS -->
+  <rect x="20" y="60" width="110" height="50" rx="4" fill="#21262d"/>
+  <text x="25" y="75" font-family="sans-serif" font-size="10" fill="#8b949e">Revenue</text>
+  <text x="25" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">$45.2K</text>
+
+  <rect x="145" y="60" width="110" height="50" rx="4" fill="#21262d"/>
+  <text x="150" y="75" font-family="sans-serif" font-size="10" fill="#8b949e">Retention Rate</text>
+  <text x="150" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">94.8%</text>
+
+  <rect x="270" y="60" width="110" height="50" rx="4" fill="#21262d"/>
+  <text x="275" y="75" font-family="sans-serif" font-size="10" fill="#8b949e">Tickets Resolved</text>
+  <text x="275" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">1,240</text>
+
+  <!-- Charts -->
+  <rect x="20" y="130" width="235" height="150" rx="4" fill="#21262d"/>
+  <!-- Bar chart mock -->
+  <rect x="40" y="170" width="15" height="90" fill="#8b949e"/>
+  <rect x="70" y="210" width="15" height="50" fill="#c9d1d9"/>
+  <rect x="100" y="150" width="15" height="110" fill="#ffffff"/>
+  <rect x="130" y="180" width="15" height="80" fill="#8b949e"/>
+  <rect x="160" y="140" width="15" height="120" fill="#ffffff"/>
+  <rect x="190" y="190" width="15" height="70" fill="#c9d1d9"/>
+  <rect x="220" y="160" width="15" height="100" fill="#ffffff"/>
+
+  <!-- Line Chart / Trend mock -->
+  <rect x="270" y="130" width="110" height="150" rx="4" fill="#21262d"/>
+  <path d="M 280 250 L 300 230 L 320 240 L 340 180 L 360 160" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <circle cx="280" cy="250" r="3" fill="#ffffff"/>
+  <circle cx="300" cy="230" r="3" fill="#ffffff"/>
+  <circle cx="320" cy="240" r="3" fill="#ffffff"/>
+  <circle cx="340" cy="180" r="3" fill="#ffffff"/>
+  <circle cx="360" cy="160" r="3" fill="#ffffff"/>
+</svg>
