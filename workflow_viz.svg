@@ -1,0 +1,26 @@
+<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="250" fill="#000000"/>
+  
+  <!-- Step 1: Human/Empathy -->
+  <circle cx="150" cy="125" r="50" stroke="#555555" stroke-width="1" fill="#050505"/>
+  <text x="150" y="120" font-family="sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">LISTEN</text>
+  <text x="150" y="135" font-family="sans-serif" font-size="10" fill="#888888" text-anchor="middle">Empathy & Data</text>
+
+  <!-- Connection 1 -->
+  <path d="M 200 125 H 350" stroke="#333333" stroke-width="1" stroke-dasharray="5 5"/>
+  <polygon points="350,125 340,120 340,130" fill="#ffffff"/>
+
+  <!-- Step 2: Tech/Analyze -->
+  <circle cx="400" cy="125" r="60" stroke="#ffffff" stroke-width="1" fill="#0a0a0a"/>
+  <text x="400" y="120" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">ANALYZE</text>
+  <text x="400" y="140" font-family="sans-serif" font-size="10" fill="#888888" text-anchor="middle">SQL + Tableau</text>
+
+  <!-- Connection 2 -->
+  <path d="M 460 125 H 600" stroke="#333333" stroke-width="1" stroke-dasharray="5 5"/>
+  <polygon points="600,125 590,120 590,130" fill="#ffffff"/>
+
+  <!-- Step 3: Impact/Results -->
+  <circle cx="650" cy="125" r="50" stroke="#555555" stroke-width="1" fill="#050505"/>
+  <text x="650" y="120" font-family="sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">IMPACT</text>
+  <text x="650" y="135" font-family="sans-serif" font-size="10" fill="#888888" text-anchor="middle">Execution</text>
+</svg>

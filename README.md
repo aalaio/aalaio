@@ -3,7 +3,7 @@
 <div align="center">
   <img src="banner.svg" alt="Ariel Banner" width="100%">
   <br><br>
-  <h1>👋 Hello there! I'm Ariel</h1>
+  <h1>👋 Hello, I'm Ariel</h1>
   <p><b>Data analysis with one goal: measurable impact.</b></p>
   <p>
     <a href="mailto:alaioariel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"></a>
@@ -13,30 +13,45 @@
 
 ---
 
-### 💼 Who I am & How I work
+<div align="left">
+  <img src="about_me_header.svg" width="300">
+</div>
 
-I transition **KPI discipline, deep stakeholder empathy, and process optimization** from years of high-volume customer service directly into **actionable data analytics**. Having de-escalated critical issues and managed strict performance metrics under pressure, I look at data not just as numbers, but as the underlying story of customer behavior and operational efficiency.
+### 💼 A Reliable Partner for Your Business Decisions
 
-#### 🚀 The Big Three (Core Stack)
+I don't just "process data." I bridge the gap between complex numbers and real-world business growth. With a background in **Psychology** and years of experience managing high-pressure environments in Public Administration and Tech Support, I bring a unique "Human-First" perspective to data.
+
+**Why trust me with your data?**
+*   **Total Reliability:** I understand that every decimal affects a decision. Accuracy is my baseline, not my goal.
+*   **Stakeholder Empathy:** My psychology background allows me to translate technical findings into language that executives and clients actually care about.
+*   **Execution Under Pressure:** I thrive in fast-paced environments where KPIs are the only thing that matters.
+
+---
+
+<div align="left">
+  <img src="skills_divider.svg" width="100%">
+</div>
+
+#### 🚀 Technical Arsenal (Pure Focus)
 <p align="left">
-  <!-- Badges are explicitly monochromatic (black background, white logo) for the sleak vibe -->
   <img src="https://img.shields.io/badge/Tableau-Data_Visualization-000000?style=for-the-badge&logo=tableau&logoColor=ffffff" alt="Tableau">
   <img src="https://img.shields.io/badge/SQL-Data_Extraction-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="SQL">
   <img src="https://img.shields.io/badge/Excel-Data_Manipulation-000000?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" alt="Excel">
   <img src="https://img.shields.io/badge/Power_BI-Analytics-000000?style=for-the-badge&logo=powerbi&logoColor=ffffff" alt="Power BI">
 </p>
 
-#### ⚙️ My 3-Step Project Workflow
-1. **Understand reality:** Translate business questions into precise data requirements. What gets measured gets managed.
-2. **Mine & Refine:** Use SQL/Excel to clean, aggregate, and structure raw data, solving documentation gaps upfront.
-3. **Deliver Insight:** Build intuitive Tableau dashboards that executives can read in 5 seconds to make decisions.
-
-> **What I need from you to start a project:**  
-> Access to a data source (CSV/DB), a clear business objective (e.g., "increase retention by X%"), and 15 minutes with the key stakeholder.
-
 ---
 
-### 📁 Featured Projects
+<div align="center">
+  <h3>⚙️ My Dynamic Workflow</h3>
+  <img src="workflow_viz.svg" width="80%">
+</div>
+
+1.  **Empathy-Driven Discovery:** I start by listening to your business needs, not just looking at table schemas.
+2.  **Meticulous Analysis:** Using SQL & Tableau to uncover the "why" behind the "what."
+3.  **Measurable Impact:** Delivering insights that lead to higher retention, cleaner processes, and better ROI.
+
+---
 
 <div align="center">
   <img src="projects_header.svg" alt="Projects Executing" width="100%">
@@ -44,64 +59,44 @@ I transition **KPI discipline, deep stakeholder empathy, and process optimizatio
 
 | Project Title | Role / Tech Stack | Impact | Link |
 | :--- | :--- | :--- | :--- |
-| **[Project Name 1]** | Data Analyst • Tableau, SQL | *Coming Soon. A brief 1-line summary of measurable results.* | `[Link ->]` |
-| **[Project Name 2]** | Data Analyst • Excel, Power BI | *Coming Soon. A brief 1-line summary of measurable results.* | `[Link ->]` |
-
-*(This section is prepared for direct insertion of future portfolio deliverables.)*
+| **[Featured Analysis]** | Data Analyst • Tableau, SQL | *Ready for your first big project. Impact focused.* | `[Link ->]` |
 
 ---
 
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Monochromatic stats cards (Pure Black bg, White config) -->
   <img src="https://github-readme-stats.vercel.app/api?username=aalaio&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" alt="Ariel's GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaio&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" alt="Top Languages" width="48%">
 </div>
 
----
+<br>
 
-### 🔬 Learning & Background
-
-* **Currently Learning:** Advanced Window Functions in SQL & Statistical Modeling.
-* **Fun Fact:** My background in Psychology acts as a cheat code for understanding UX/UI in dashboards and user retention metrics!
-
-<br><br>
+<div align="center">
+  <img src="contact_footer.svg" width="100%">
+</div>
 
 ---
 <!-- README EN ESPAÑOL -->
 
 <div align="center">
-  <h1>👋 ¡Hola! Soy Ariel</h1>
+  <h1>👋 Hola, soy Ariel</h1>
   <p><b>Análisis de datos con un único objetivo: impacto medible.</b></p>
 </div>
 
 ---
 
-### 💼 Quién soy y cómo trabajo
+### 💼 Un socio confiable para tus decisiones de negocio
 
-Transformo años de experiencia en servicio al cliente de alto volumen en **análisis de datos accionables**, aplicando disciplina en KPIs, empatía con el cliente y optimización de procesos. Al haber gestionado métricas estrictas bajo presión, no veo los datos solo como números, sino como la historia subyacente del comportamiento del usuario y la eficiencia operativa.
+Mi valor no está solo en "procesar datos", sino en conectar números complejos con el crecimiento real de la empresa. Gracias a mi formación en **Psicología** y años de experiencia bajo presión en Administración Pública y Soporte Técnico, aporto una perspectiva humana y estratégica que los perfiles puramente técnicos suelen pasar por alto.
 
-#### 🚀 Mis Herramientas Principales
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-Visualizacion-000000?style=for-the-badge&logo=tableau&logoColor=ffffff" alt="Tableau">
-  <img src="https://img.shields.io/badge/SQL-Extraccion-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="SQL">
-  <img src="https://img.shields.io/badge/Excel-Manipulacion-000000?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" alt="Excel">
-</p>
-
-#### ⚙️ Mi flujo de trabajo en 3 pasos
-1. **Entender la realidad:** Traducir preguntas de negocio en requisitos de datos precisos.
-2. **Minar y Refinar:** Usar SQL/Excel para limpiar y estructurar datos crudos.
-3. **Entregar Insights:** Crear dashboards intuitivos en Tableau para toma de decisiones rápidas.
-
-> **Qué necesito para empezar un proyecto:**  
-> Acceso a los datos, un objetivo de negocio claro y 15 minutos con el líder del proyecto.
+**¿Por qué confiar en mí?**
+*   **Confiabilidad Absoluta:** Entiendo que cada dato mal interpretado es una mala decisión de negocio. La precisión es mi punto de partida.
+*   **Empatía con Stakeholders:** Traduzco hallazgos técnicos al lenguaje de negocios que a los ejecutivos les interesa.
+*   **Disciplina en KPIs:** Mi experiencia me ha enseñado a trabajar bajo métricas estrictas y entregar resultados que mueven la aguja.
 
 ---
 
-### 📁 Proyectos Destacados
-
-*(La sección de proyectos arriba se encuentra estructurada y lista para poblarse a medida que libere mis análisis públicos).*
-
-* **Aprendiendo actualmente:** Funciones de ventana avanzadas en SQL y Modelado Estadístico.
-* **Dato Curioso:** ¡Mi formación en Psicología es una gran ventaja para entender la retención de usuarios y el comportamiento del consumidor en los dashboards!
+<div align="center">
+  <img src="contact_footer.svg" width="100%">
+</div>

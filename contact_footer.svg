@@ -1,0 +1,7 @@
+<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="150" fill="#000000"/>
+  <path d="M 100 75 H 700" stroke="#333333" stroke-width="1"/>
+  <text x="400" y="70" font-family="'Courier New', Courier, monospace" font-size="12" fill="#555555" text-anchor="middle">END_OF_TRANSMISSION</text>
+  <text x="400" y="100" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">Let's build the future of data together.</text>
+  <circle cx="400" cy="75" r="3" fill="#ffffff"/>
+</svg>
