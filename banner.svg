@@ -1,26 +1,37 @@
 <svg width="1920" height="420" viewBox="0 0 1920 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="1920" height="420" fill="#0d1117"/>
+  <!-- Absolute Black Background -->
+  <rect width="1920" height="420" fill="#000000"/>
   
-  <!-- Stars / Dust (minimalistic) -->
-  <circle cx="200" cy="80" r="1.5" fill="#ffffff" fill-opacity="0.3"/>
-  <circle cx="450" cy="120" r="1" fill="#ffffff" fill-opacity="0.5"/>
-  <circle cx="1200" cy="90" r="2" fill="#ffffff" fill-opacity="0.4"/>
-  <circle cx="1600" cy="150" r="1.5" fill="#ffffff" fill-opacity="0.2"/>
-  <circle cx="800" cy="50" r="1" fill="#ffffff" fill-opacity="0.6"/>
-  <circle cx="1800" cy="100" r="2" fill="#ffffff" fill-opacity="0.3"/>
+  <!-- Subtle High-Contrast Stars -->
+  <circle cx="150" cy="80" r="1.5" fill="#ffffff" fill-opacity="0.8"/>
+  <circle cx="450" cy="120" r="1" fill="#ffffff" fill-opacity="0.4"/>
+  <circle cx="1100" cy="60" r="2.5" fill="#ffffff" fill-opacity="0.9"/>
+  <circle cx="1650" cy="150" r="1.5" fill="#ffffff" fill-opacity="0.5"/>
+  <circle cx="850" cy="40" r="1" fill="#ffffff" fill-opacity="0.3"/>
+  <circle cx="1850" cy="110" r="2" fill="#ffffff" fill-opacity="0.7"/>
+  <circle cx="300" cy="220" r="0.8" fill="#ffffff" fill-opacity="0.6"/>
+  <circle cx="1350" cy="180" r="1.2" fill="#ffffff" fill-opacity="0.8"/>
 
-  <!-- Distant Mountains / Dunes -->
-  <path d="M0 250 Q 200 180 400 240 T 900 200 T 1400 260 T 1920 220 L 1920 420 L 0 420 Z" fill="#161b22"/>
-  <path d="M0 280 Q 250 200 500 290 T 1100 220 T 1500 280 T 1920 240 L 1920 420 L 0 420 Z" fill="#21262d"/>
-  <path d="M-50 350 Q 300 260 650 360 T 1300 270 T 1950 380 L 1950 420 L -50 420 Z" fill="#30363d"/>
+  <!-- Minimalist Sharp Dunes/Waves (Monochromatic) -->
+  <path d="M0 280 Q 250 220 500 290 T 1100 240 T 1600 290 T 1920 260 L 1920 420 L 0 420 Z" fill="#0a0a0a"/>
+  <path d="M0 320 Q 350 260 700 340 T 1400 270 T 1920 310 L 1920 420 L 0 420 Z" fill="#111111"/>
+  <path d="M-50 360 Q 400 300 800 380 T 1500 310 T 1950 360 L 1950 420 L -50 420 Z" fill="#181818"/>
   
-  <!-- Glowing River / Path in center -->
-  <path d="M700 420 Q 900 350 1100 260 Q 1150 240 1200 250 Q 800 320 600 420 Z" fill="#8b949e" fill-opacity="0.2"/>
-  <path d="M750 420 Q 950 360 1120 265 Q 1140 250 1180 255 Q 850 330 650 420 Z" fill="#c9d1d9" fill-opacity="0.4"/>
-  <path d="M800 420 Q 1000 370 1140 270 Q 1130 260 1160 260 Q 900 340 700 420 Z" fill="#ffffff" fill-opacity="0.7"/>
+  <!-- Glowing/Sharp Graph Line representing "Impact" -->
+  <path d="M 0 380 Q 400 370 700 320 T 1200 280 T 1600 210 L 1920 160" stroke="#ffffff" stroke-width="2" stroke-dasharray="8 4" fill="none" stroke-opacity="0.4"/>
+  
+  <!-- Main Terminal Box / Window Header -->
+  <rect x="610" y="80" width="700" height="180" rx="4" fill="#050505" stroke="#333333" stroke-width="1"/>
+  <rect x="610" y="80" width="700" height="30" rx="4" fill="#111111"/>
+  <!-- Status Dots in absolute B&W -->
+  <circle cx="630" cy="95" r="5" fill="#555555"/>
+  <circle cx="650" cy="95" r="5" fill="#777777"/>
+  <circle cx="670" cy="95" r="5" fill="#999999"/>
+  <text x="960" y="99" font-family="'Courier New', Courier, monospace" font-size="12" fill="#888888" text-anchor="middle" letter-spacing="1">terminal - zsh</text>
 
-  <!-- Overlay Text: Typewriter / Monospace effect -->
-  <text x="960" y="150" font-family="'Courier New', Courier, monospace" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="4">Welcome to Ariel's GitHub</text>
-  <text x="960" y="210" font-family="'Courier New', Courier, monospace" font-size="28" font-weight="normal" fill="#8b949e" text-anchor="middle" letter-spacing="8">&lt; / &gt;</text>
+  <!-- Title & USP Text -->
+  <text x="960" y="150" font-family="'Courier New', Courier, monospace" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">Welcome to Ariel's GitHub</text>
+  <text x="960" y="200" font-family="'Courier New', Courier, monospace" font-size="18" font-weight="normal" fill="#cccccc" text-anchor="middle" letter-spacing="2">&gt; Data analysis with one goal: measurable impact_</text>
+  
+  <text x="960" y="240" font-family="'Courier New', Courier, monospace" font-size="28" font-weight="normal" fill="#555555" text-anchor="middle" letter-spacing="8">&lt; / &gt;</text>
 </svg>

@@ -1,13 +1,13 @@
 <!-- README IN ENGLISH -->
 
 <div align="center">
-  <img src="banner.svg" alt="Banner Landscape" width="100%">
+  <img src="banner.svg" alt="Ariel Banner" width="100%">
   <br><br>
-  <h1>👋 Hello there! I'm Ariel Alaio</h1>
-  <p><b>Data Analyst bridging the gap between customer reality and business performance.</b></p>
+  <h1>👋 Hello there! I'm Ariel</h1>
+  <p><b>Data analysis with one goal: measurable impact.</b></p>
   <p>
-    <a href="mailto:alaioariel@gmail.com"><img src="https://img.shields.io/badge/Email-alaioariel%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/ariel-alaio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:alaioariel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/ariel-alaio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
   </p>
 </div>
 
@@ -19,10 +19,11 @@ I transition **KPI discipline, deep stakeholder empathy, and process optimizatio
 
 #### 🚀 The Big Three (Core Stack)
 <p align="left">
-  <img src="https://img.shields.io/badge/Tableau-Data_Visualization-0d1117?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/SQL-Data_Extraction-0d1117?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Excel-Data_Manipulation-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Power_BI-Analytics-0d1117?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+  <!-- Badges are explicitly monochromatic (black background, white logo) for the sleak vibe -->
+  <img src="https://img.shields.io/badge/Tableau-Data_Visualization-000000?style=for-the-badge&logo=tableau&logoColor=ffffff" alt="Tableau">
+  <img src="https://img.shields.io/badge/SQL-Data_Extraction-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="SQL">
+  <img src="https://img.shields.io/badge/Excel-Data_Manipulation-000000?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" alt="Excel">
+  <img src="https://img.shields.io/badge/Power_BI-Analytics-000000?style=for-the-badge&logo=powerbi&logoColor=ffffff" alt="Power BI">
 </p>
 
 #### ⚙️ My 3-Step Project Workflow
@@ -35,23 +36,34 @@ I transition **KPI discipline, deep stakeholder empathy, and process optimizatio
 
 ---
 
+### 📁 Featured Projects
+
+<div align="center">
+  <img src="projects_header.svg" alt="Projects Executing" width="100%">
+</div>
+
+| Project Title | Role / Tech Stack | Impact | Link |
+| :--- | :--- | :--- | :--- |
+| **[Project Name 1]** | Data Analyst • Tableau, SQL | *Coming Soon. A brief 1-line summary of measurable results.* | `[Link ->]` |
+| **[Project Name 2]** | Data Analyst • Excel, Power BI | *Coming Soon. A brief 1-line summary of measurable results.* | `[Link ->]` |
+
+*(This section is prepared for direct insertion of future portfolio deliverables.)*
+
+---
+
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aalaio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="Ariel's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaio&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Top Languages" width="48%">
+  <!-- Monochromatic stats cards (Pure Black bg, White config) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aalaio&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" alt="Ariel's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaio&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" alt="Top Languages" width="48%">
 </div>
 
 ---
 
-### 🔬 Featured Projects & Learning
+### 🔬 Learning & Background
 
-**Dashboard Preview:**
-<div align="left">
-  <img src="profile_preview.svg" alt="Dashboard Preview Mockup" width="300">
-</div>
-
-* **Currently Learning:** Advanced Window Functions in SQL & Statistical Modeling (leveraging my Psychology degree background).
+* **Currently Learning:** Advanced Window Functions in SQL & Statistical Modeling.
 * **Fun Fact:** My background in Psychology acts as a cheat code for understanding UX/UI in dashboards and user retention metrics!
 
 <br><br>
@@ -60,8 +72,8 @@ I transition **KPI discipline, deep stakeholder empathy, and process optimizatio
 <!-- README EN ESPAÑOL -->
 
 <div align="center">
-  <h1>👋 ¡Hola! Soy Ariel Alaio</h1>
-  <p><b>Analista de Datos conectando la realidad del cliente con el rendimiento del negocio.</b></p>
+  <h1>👋 ¡Hola! Soy Ariel</h1>
+  <p><b>Análisis de datos con un único objetivo: impacto medible.</b></p>
 </div>
 
 ---
@@ -72,9 +84,9 @@ Transformo años de experiencia en servicio al cliente de alto volumen en **aná
 
 #### 🚀 Mis Herramientas Principales
 <p align="left">
-  <img src="https://img.shields.io/badge/Tableau-Visualizacion-0d1117?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/SQL-Extraccion-0d1117?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Excel-Manipulacion-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Tableau-Visualizacion-000000?style=for-the-badge&logo=tableau&logoColor=ffffff" alt="Tableau">
+  <img src="https://img.shields.io/badge/SQL-Extraccion-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="SQL">
+  <img src="https://img.shields.io/badge/Excel-Manipulacion-000000?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" alt="Excel">
 </p>
 
 #### ⚙️ Mi flujo de trabajo en 3 pasos
@@ -84,6 +96,12 @@ Transformo años de experiencia en servicio al cliente de alto volumen en **aná
 
 > **Qué necesito para empezar un proyecto:**  
 > Acceso a los datos, un objetivo de negocio claro y 15 minutos con el líder del proyecto.
+
+---
+
+### 📁 Proyectos Destacados
+
+*(La sección de proyectos arriba se encuentra estructurada y lista para poblarse a medida que libere mis análisis públicos).*
 
 * **Aprendiendo actualmente:** Funciones de ventana avanzadas en SQL y Modelado Estadístico.
 * **Dato Curioso:** ¡Mi formación en Psicología es una gran ventaja para entender la retención de usuarios y el comportamiento del consumidor en los dashboards!

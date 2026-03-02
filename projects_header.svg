@@ -1,0 +1,18 @@
+<svg width="800" height="120" viewBox="0 0 800 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Minimalist Divider -->
+  <rect width="800" height="120" fill="#000000"/>
+  
+  <!-- Tech Window frame -->
+  <rect x="20" y="30" width="760" height="60" fill="#050505" stroke="#333333" stroke-width="1"/>
+  
+  <!-- Text -->
+  <text x="50" y="66" font-family="'Courier New', Courier, monospace" font-size="22" font-weight="bold" fill="#ffffff" letter-spacing="4">PROJECT_FILES.exe</text>
+  <text x="350" y="65" font-family="'Courier New', Courier, monospace" font-size="14" fill="#777777" letter-spacing="1">[ STATUS: EXECUTING ]</text>
+  
+  <!-- Loading Bar -->
+  <rect x="560" y="55" width="200" height="10" fill="#111111" stroke="#333333" stroke-width="1"/>
+  <rect x="562" y="57" width="140" height="6" fill="#ffffff"/>
+  
+  <!-- Grid accents -->
+  <path d="M 0 60 L 20 60 M 780 60 L 800 60" stroke="#333333" stroke-width="1"/>
+</svg>
