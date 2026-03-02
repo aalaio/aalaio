@@ -1,0 +1,160 @@
+<!-- README IN ENGLISH -->
+
+<div align="center">
+  <img src="assets/banner.svg" alt="Banner Landscape" width="100%"><svg width="1920" height="420" viewBox=<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Header Bar -->
+  <rect x="0" y="0" width="400" height="40" rx="8" fill="#161b22"/>
+  <circle cx="20" cy="20" r="5" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="5" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="5" fill="#27c93f"/>
+  <text x="200" y="25" font-family="sans-serif" font-size="12" fill="#8b949e" text-anchor="middle">Sales_Performance_Dashboard.twb</text>
+
+  <!-- Dashboard Mockup Elements -->
+  <!-- KPIS -->
+  <rect x="20" y="60" width="110" height="50" rx="4" fill="#21262d"/>
+  <text x="25" y="75" font-family="sans-serif" font-size="10" fill="#8b949e">Revenue</text>
+  <text x="25" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">$45.2K</text>
+
+  <rect x="145" y="60" width="110" height="50" rx="4" fill="#21262d"/>
+  <text x="150" y="75" font-family="sans-serif" font-size="10" fill="#8b949e">Retention Rate</text>
+  <text x="150" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">94.8%</text>
+
+  <rect x="270" y="60" width="110" height="50" rx="4" fill="#21262d"/>
+  <text x="275" y="75" font-family="sans-serif" font-size="10" fill="#8b949e">Tickets Resolved</text>
+  <text x="275" y="95" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">1,240</text>
+
+  <!-- Charts -->
+  <rect x="20" y="130" width="235" height="150" rx="4" fill="#21262d"/>
+  <!-- Bar chart mock -->
+  <rect x="40" y="170" width="15" height="90" fill="#8b949e"/>
+  <rect x="70" y="210" width="15" height="50" fill="#c9d1d9"/>
+  <rect x="100" y="150" width="15" height="110" fill="#ffffff"/>
+  <rect x="130" y="180" width="15" height="80" fill="#8b949e"/>
+  <rect x="160" y="140" width="15" height="120" fill="#ffffff"/>
+  <rect x="190" y="190" width="15" height="70" fill="#c9d1d9"/>
+  <rect x="220" y="160" width="15" height="100" fill="#ffffff"/>
+
+  <!-- Line Chart / Trend mock -->
+  <rect x="270" y="130" width="110" height="150" rx="4" fill="#21262d"/>
+  <path d="M 280 250 L 300 230 L 320 240 L 340 180 L 360 160" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <circle cx="280" cy="250" r="3" fill="#ffffff"/>
+  <circle cx="300" cy="230" r="3" fill="#ffffff"/>
+  <circle cx="320" cy="240" r="3" fill="#ffffff"/>
+  <circle cx="340" cy="180" r="3" fill="#ffffff"/>
+  <circle cx="360" cy="160" r="3" fill="#ffffff"/>
+</svg>
+"0 0 1920 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1920" height="420" fill="#0d1117"/>
+  
+  <!-- Stars / Dust (minimalistic) -->
+  <circle cx="200" cy="80" r="1.5" fill="#ffffff" fill-opacity="0.3"/>
+  <circle cx="450" cy="120" r="1" fill="#ffffff" fill-opacity="0.5"/>
+  <circle cx="1200" cy="90" r="2" fill="#ffffff" fill-opacity="0.4"/>
+  <circle cx="1600" cy="150" r="1.5" fill="#ffffff" fill-opacity="0.2"/>
+  <circle cx="800" cy="50" r="1" fill="#ffffff" fill-opacity="0.6"/>
+  <circle cx="1800" cy="100" r="2" fill="#ffffff" fill-opacity="0.3"/>
+
+  <!-- Distant Mountains / Dunes -->
+  <path d="M0 250 Q 200 180 400 240 T 900 200 T 1400 260 T 1920 220 L 1920 420 L 0 420 Z" fill="#161b22"/>
+  <path d="M0 280 Q 250 200 500 290 T 1100 220 T 1500 280 T 1920 240 L 1920 420 L 0 420 Z" fill="#21262d"/>
+  <path d="M-50 350 Q 300 260 650 360 T 1300 270 T 1950 380 L 1950 420 L -50 420 Z" fill="#30363d"/>
+  
+  <!-- Glowing River / Path in center -->
+  <path d="M700 420 Q 900 350 1100 260 Q 1150 240 1200 250 Q 800 320 600 420 Z" fill="#8b949e" fill-opacity="0.2"/>
+  <path d="M750 420 Q 950 360 1120 265 Q 1140 250 1180 255 Q 850 330 650 420 Z" fill="#c9d1d9" fill-opacity="0.4"/>
+  <path d="M800 420 Q 1000 370 1140 270 Q 1130 260 1160 260 Q 900 340 700 420 Z" fill="#ffffff" fill-opacity="0.7"/>
+
+  <!-- Overlay Text: Typewriter / Monospace effect -->
+  <text x="960" y="150" font-family="'Courier New', Courier, monospace" font-size="46" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="4">Welcome to Ariel's GitHub</text>
+  <text x="960" y="210" font-family="'Courier New', Courier, monospace" font-size="28" font-weight="normal" fill="#8b949e" text-anchor="middle" letter-spacing="8">&lt; / &gt;</text>
+</svg>
+
+  <br><br>
+  <h1>👋 Hello there! I'm Ariel Alaio</h1>
+  <p><b>Data Analyst bridging the gap between customer reality and business performance.</b></p>
+  <p>
+    <a href="mailto:alaioariel@gmail.com"><img src="https://img.shields.io/badge/Email-alaioariel%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&border=21262d" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/ariel-alaio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&border=21262d" alt="LinkedIn"></a>
+  </p>
+</div>
+
+---
+
+### 💼 Who I am & How I work
+
+I transition **KPI discipline, deep stakeholder empathy, and process optimization** from years of high-volume customer service directly into **actionable data analytics**. Having de-escalated critical issues and managed strict performance metrics under pressure, I look at data not just as numbers, but as the underlying story of customer behavior and operational efficiency.
+
+#### 🚀 The Big Three (Core Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-Data_Visualization-0d1117?style=for-the-badge&logo=tableau&logoColor=white&border=8b949e" alt="Tableau">
+  <img src="https://img.shields.io/badge/SQL-Data_Extraction-0d1117?style=for-the-badge&logo=mysql&logoColor=white&border=8b949e" alt="SQL">
+  <img src="https://img.shields.io/badge/Excel-Data_Manipulation-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=white&border=8b949e" alt="Excel">
+  <img src="https://img.shields.io/badge/Power_BI-Analytics-0d1117?style=for-the-badge&logo=powerbi&logoColor=white&border=8b949e" alt="Power BI">
+</p>
+
+#### ⚙️ My 3-Step Project Workflow
+1. **Understand reality:** Translate business questions into precise data requirements. What gets measured gets managed.
+2. **Mine & Refine:** Use SQL/Excel to clean, aggregate, and structure raw data, solving documentation gaps upfront.
+3. **Deliver Insight:** Build intuitive Tableau dashboards that executives can read in 5 seconds to make decisions.
+
+> **What I need from you to start a project:**  
+> Access to a data source (CSV/DB), a clear business objective (e.g., "increase retention by X%"), and 15 minutes with the key stakeholder.
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aalaio&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="Ariel's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaio&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="Top Languages" width="48%">
+</div>
+
+---
+
+### 🔬 Featured Projects & Learning
+
+**Dashboard Preview:**
+<div align="left">
+  <img src="assets/profile_preview.svg" alt="Dashboard Preview Mockup" width="300">
+</div>
+
+* **Currently Learning:** Advanced Window Functions in SQL & Statistical Modeling (leveraging my Psychology degree background).
+* **Fun Fact:** My background in Psychology acts as a cheat code for understanding UX/UI in dashboards and user retention metrics!
+
+<br><br>
+
+---
+<!-- README EN ESPAÑOL -->
+
+<div align="center">
+  <h1>👋 ¡Hola! Soy Ariel Alaio</h1>
+  <p><b>Analista de Datos conectando la realidad del cliente con el rendimiento del negocio.</b></p>
+</div>
+
+---
+
+### 💼 Quién soy y cómo trabajo
+
+Transformo años de experiencia en servicio al cliente de alto volumen en **análisis de datos accionables**, aplicando disciplina en KPIs, empatía con el cliente y optimización de procesos. Al haber gestionado métricas estrictas bajo presión, no veo los datos solo como números, sino como la historia subyacente del comportamiento del usuario y la eficiencia operativa.
+
+#### 🚀 Mis Herramientas Principales
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-Visualizacion-0d1117?style=for-the-badge&logo=tableau&logoColor=white&border=8b949e" alt="Tableau">
+  <img src="https://img.shields.io/badge/SQL-Extraccion-0d1117?style=for-the-badge&logo=mysql&logoColor=white&border=8b949e" alt="SQL">
+  <img src="https://img.shields.io/badge/Excel-Manipulacion-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=white&border=8b949e" alt="Excel">
+</p>
+
+#### ⚙️ Mi flujo de trabajo en 3 pasos
+1. **Entender la realidad:** Traducir preguntas de negocio en requisitos de datos precisos.
+2. **Minar y Refinar:** Usar SQL/Excel para limpiar y estructurar datos crudos.
+3. **Entregar Insights:** Crear dashboards intuitivos en Tableau para toma de decisiones rápidas.
+
+> **Qué necesito para empezar un proyecto:**  
+> Acceso a los datos, un objetivo de negocio claro y 15 minutos con el líder del proyecto.
+
+* **Aprendiendo actualmente:** Funciones de ventana avanzadas en SQL y Modelado Estadístico.
+* **Dato Curioso:** ¡Mi formación en Psicología es una gran ventaja para entender la retención de usuarios y el comportamiento del consumidor en los dashboards!
