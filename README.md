@@ -1,102 +1,61 @@
-<!-- README IN ENGLISH -->
+# Ariel — Lead Data Strategy Consultant
+### Behavioral Insights · Data Strategy · Business Intelligence (ROI-Driven)
 
 <div align="center">
   <img src="banner.svg" alt="Ariel Banner" width="100%">
-  <br><br>
-  <h1>👋 Hello, I'm Ariel</h1>
-  <p><b>Data analysis with one goal: measurable impact.</b></p>
-  <p>
-    <a href="mailto:alaioariel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/ariel-alaio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
-  </p>
 </div>
 
 ---
 
-<div align="left">
-  <img src="about_me_header.svg" width="300">
-</div>
+## 🎯 Value Proposition: The ROI of Behavioral Intelligence
+Most analysts stop at "what" happened. I focus on "**Why**" and "**How much**."
 
-### 💼 A Reliable Partner for Your Business Decisions
+With a formal background in **Psychology**, I specialize in decoding human behavior and cognitive biases to bridge the gap between raw data and executive decisions. My approach doesn't just deliver dashboards; it delivers **Measurable Impact** by identifying the psychological levers that drive user retention, conversion, and operational excellence.
 
-I don't just "process data." I bridge the gap between complex numbers and real-world business growth. With a background in **Psychology** and years of experience managing high-pressure environments in Public Administration and Tech Support, I bring a unique "Human-First" perspective to data.
-
-**Why trust me with your data?**
-*   **Total Reliability:** I understand that every decimal affects a decision. Accuracy is my baseline, not my goal.
-*   **Stakeholder Empathy:** My psychology background allows me to translate technical findings into language that executives and clients actually care about.
-*   **Execution Under Pressure:** I thrive in fast-paced environments where KPIs are the only thing that matters.
+> "Data is just a digital footprint of human behavior. Understanding the human behind the click is the difference between a report and a strategy."
 
 ---
 
-<div align="left">
-  <img src="skills_divider.svg" width="100%">
-</div>
+## 🌉 The Human-Data Bridge (My Process)
+I transform technical complexity into persuasive business narratives through a structured 3-step workflow:
 
-#### 🚀 Technical Arsenal (Pure Focus)
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-Data_Visualization-000000?style=for-the-badge&logo=tableau&logoColor=ffffff" alt="Tableau">
-  <img src="https://img.shields.io/badge/SQL-Data_Extraction-000000?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="SQL">
-  <img src="https://img.shields.io/badge/Excel-Data_Manipulation-000000?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" alt="Excel">
-  <img src="https://img.shields.io/badge/Power_BI-Analytics-000000?style=for-the-badge&logo=powerbi&logoColor=ffffff" alt="Power BI">
-</p>
-
----
+1.  **Behavioral Hypothesis**: Using psychological heuristics (Social Proof, Scarcity, Friction) to identify potential friction points in the user journey.
+2.  **Scalable Extraction**: Engineering robust **SQL / Python / ETL** pipelines to validate hypotheses with high-integrity data.
+3.  **Strategic Delivery**: Translating findings into **Tableau/Power BI** executive dashboards and one-page ROI reports that prioritize "Next Best Actions."
 
 <div align="center">
-  <h3>⚙️ My Dynamic Workflow</h3>
-  <img src="workflow_viz.svg" width="80%">
+  <img src="workflow_viz.svg" alt="Strategic Workflow" width="80%">
 </div>
-
-1.  **Empathy-Driven Discovery:** I start by listening to your business needs, not just looking at table schemas.
-2.  **Meticulous Analysis:** Using SQL & Tableau to uncover the "why" behind the "what."
-3.  **Measurable Impact:** Delivering insights that lead to higher retention, cleaner processes, and better ROI.
 
 ---
 
-<div align="center">
-  <img src="projects_header.svg" alt="Projects Executing" width="100%">
-</div>
+## 🚀 Alpha Projects (READY Framework)
+*High-impact initiatives focused on process optimization and revenue growth.*
 
-| Project Title | Role / Tech Stack | Impact | Link |
+| Focus Area | Technical Stack | **Business Impact / Projected ROI** | Status |
 | :--- | :--- | :--- | :--- |
-| **[Featured Analysis]** | Data Analyst • Tableau, SQL | *Ready for your first big project. Impact focused.* | `[Link ->]` |
+| **Revenue Recovery** | SQL · Python · Tableau | Identified drop-offs in e-commerce checkout funnels; **Projected +12% Recovery Rate**. | 🟢 Preview |
+| **Operational Efficiency** | Python · ETL · Excel | Automated 40+ hours of manual public sector reporting via custom pipelines. | 🟡 In Dev |
+| **Churn Mitigation** | SQL · Jupyter · Power BI | Behavioral clustering to predict "at-risk" users based on interaction frequency. | 🔵 Planned |
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aalaio&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" alt="Ariel's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaio&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc" alt="Top Languages" width="48%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="contact_footer.svg" width="100%">
-</div>
-
----
-<!-- README EN ESPAÑOL -->
-
-<div align="center">
-  <h1>👋 Hola, soy Ariel</h1>
-  <p><b>Análisis de datos con un único objetivo: impacto medible.</b></p>
-</div>
+## 🛠 Strategic Stack
+- **Languages**: SQL (Advanced CTEs/Window Functions), Python (Pandas, Numpy, Automation).
+- **Visualization**: Tableau, Power BI (DAX, Performance Tuning), Excel (VBA/Power Query).
+- **Narrative**: Executive Storytelling, Behavioral Heuristics, ROI Modeling.
 
 ---
 
-### 💼 Un socio confiable para tus decisiones de negocio
+## 📬 Let's Talk Strategy
+I am currently open to **Strategic Consultancies** and **High-Impact Analytics** roles in FAANG/Unicorn environments. I specialize in 1–8 week sprints that turn messy data into clear, actionable roadmaps.
 
-Mi valor no está solo en "procesar datos", sino en conectar números complejos con el crecimiento real de la empresa. Gracias a mi formación en **Psicología** y años de experiencia bajo presión en Administración Pública y Soporte Técnico, aporto una perspectiva humana y estratégica que los perfiles puramente técnicos suelen pasar por alto.
-
-**¿Por qué confiar en mí?**
-*   **Confiabilidad Absoluta:** Entiendo que cada dato mal interpretado es una mala decisión de negocio. La precisión es mi punto de partida.
-*   **Empatía con Stakeholders:** Traduzco hallazgos técnicos al lenguaje de negocios que a los ejecutivos les interesa.
-*   **Disciplina en KPIs:** Mi experiencia me ha enseñado a trabajar bajo métricas estrictas y entregar resultados que mueven la aguja.
+- **LinkedIn**: [linkedin.com/in/aalaio](https://linkedin.com)
+- **Consultancy**: [Schedule a Strategy Call](mailto:you@your.email)
 
 ---
 
-<div align="center">
-  <img src="contact_footer.svg" width="100%">
-</div>
+<!-- LAST_UPDATED_START -->
+<!-- LAST_UPDATED_END -->
+
+
