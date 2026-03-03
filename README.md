@@ -20,7 +20,7 @@
 
 <h1 align="center">Data Analyst — high-impact analytics, production-ready delivery</h1>
 
-## 👋riel — Hi!
+## 👋Ariel — Hi!
 > I turn data into decisions that increase revenue, cut costs, and speed up operations.
 
 Data Analyst with deep, hands-on expertise across end-to-end analytics: **data engineering patterns**, **production-ready SQL**, **robust Python analysis**, and **executive dashboards** that lead to measurable action. Ready to join teams that expect immediate impact.
@@ -191,5 +191,6 @@ Everything is delivered with reproducibility and handoff in mind.
   <img src="https://github-readme-stats.vercel.app/api?username=aalaio&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaio&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" width="48%">
 </p>
+
 
 
