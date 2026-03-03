@@ -1,7 +1,20 @@
 <svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
-  <!-- Solid Monochrome Cat Silhouette (Enhanced Compatibility) -->
-  <rect width="400" height="400" fill="transparent"/>
-  <path d="M280 370 C 280 320 260 200 220 160 C 200 130 180 120 180 80 C 180 60 190 50 200 40 L 170 20 L 150 50 C 140 70 140 100 150 130 C 160 160 180 200 180 320 C 180 350 150 370 120 370 H 300 Z" fill="white"/>
-  <path d="M175 35 L 160 10 L 185 25 Z" fill="white"/>
-  <path d="M205 45 L 225 30 L 215 50 Z" fill="white"/>
+  <!-- Highly recognizable cat silhouette looking up and left -->
+  <g fill="white" stroke="white" stroke-width="1">
+    <!-- Body and Head connected in a more cat-like shape -->
+    <path d="M280 380 
+             C 280 320, 240 250, 200 200 
+             C 170 160, 150 140, 150 100 
+             C 150 70, 170 50, 200 50 
+             L 170 20 
+             L 155 55 
+             C 140 70, 130 90, 130 120 
+             C 130 160, 150 200, 170 250 
+             C 190 300, 180 340, 140 380 
+             Z" />
+    <!-- Secondary Ear for depth -->
+    <path d="M205 55 L 225 30 L 215 65 Z" />
+    <!-- Tail (Classic cat curve) -->
+    <path d="M280 380 C 320 380, 350 350, 350 300 C 350 270, 330 250, 310 250" fill="none" stroke="white" stroke-width="12" stroke-linecap="round" />
+  </g>
 </svg>
