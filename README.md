@@ -61,8 +61,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
 
 ## 🛠 Technical Arsenal — Top 1% Data Analyst
 
-### Core — The Big Three (visually dominant)
-![Excel](https://img.shields.io/badge/Excel-39%25-107C10?logo=microsoft-excel) ![SQL](https://img.shields.io/badge/SQL-31%25-2b7489?logo=postgresql) ![Tableau](https://img.shields.io/badge/Tableau-21%25-e87722?logo=tableau)
+![Excel](https://img.shields.io/badge/Excel-100%25-107C10?logo=microsoft-excel) ![SQL](https://img.shields.io/badge/SQL-100%25-2b7489?logo=postgresql) ![Tableau](https://img.shields.io/badge/Tableau-100%25-e87722?logo=tableau)
 
 - **Microsoft Excel** — Power Query, pivot-driven analysis, quick financial and operational models; go-to for rapid stakeholder-ready summaries.
 - **SQL (Postgres / BigQuery / Redshift)** — Advanced SQL: Window functions (ROW_NUMBER, RANK, LAG/LEAD), CTEs, subqueries, self-joins, analytic aggregates, partitioned aggregations and performance-aware patterns for production analytics.
@@ -111,7 +110,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
 ---
 
 ### 📝 Summary Block
-**Core:** ![Excel](https://img.shields.io/badge/Excel-39%25-107C10) ![SQL](https://img.shields.io/badge/SQL-31%25-2b7489) ![Tableau](https://img.shields.io/badge/Tableau-21%25-e87722)
+**Core:** ![Excel](https://img.shields.io/badge/Excel-100%25-107C10) ![SQL](https://img.shields.io/badge/SQL-100%25-2b7489) ![Tableau](https://img.shields.io/badge/Tableau-100%25-e87722)
 **SQL (advanced):** Window functions, CTEs, subqueries, partitioned aggregations.  
 **Python:** pandas · numpy · seaborn · scikit-learn — ETL, EDA, models.  
 **Docs & Architecture:** ERD · Data Dictionary · Metric spec.  
