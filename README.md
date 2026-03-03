@@ -5,7 +5,9 @@
   <img src="banner.svg" alt="Ariel Banner" width="100%">
 </div>
 
----
+<div align="center">
+  <img src="separator.svg" width="80%">
+</div>
 
 ## 🎯 Value Proposition: The ROI of Behavioral Intelligence
 Most analysts stop at "what" happened. I focus on "**Why**" and "**How much**."
@@ -14,7 +16,9 @@ With a formal background in **Psychology**, I specialize in decoding human behav
 
 > "Data is just a digital footprint of human behavior. Understanding the human behind the click is the difference between a report and a strategy."
 
----
+<div align="center">
+  <img src="separator.svg" width="80%">
+</div>
 
 ## 🌉 The Human-Data Bridge (My Process)
 I transform technical complexity into persuasive business narratives through a structured 3-step workflow:
@@ -27,7 +31,9 @@ I transform technical complexity into persuasive business narratives through a s
   <img src="workflow_viz.svg" alt="Strategic Workflow" width="80%">
 </div>
 
----
+<div align="center">
+  <img src="separator.svg" width="80%">
+</div>
 
 ## 🚀 Alpha Projects (READY Framework)
 *High-impact initiatives focused on process optimization and revenue growth.*
@@ -38,22 +44,28 @@ I transform technical complexity into persuasive business narratives through a s
 | **Operational Efficiency** | Python · ETL · Excel | Automated 40+ hours of manual public sector reporting via custom pipelines. | 🟡 In Dev |
 | **Churn Mitigation** | SQL · Jupyter · Power BI | Behavioral clustering to predict "at-risk" users based on interaction frequency. | 🔵 Planned |
 
----
+<div align="center">
+  <img src="separator.svg" width="80%">
+</div>
 
 ## 🛠 Strategic Stack
 - **Languages**: SQL (Advanced CTEs/Window Functions), Python (Pandas, Numpy, Automation).
 - **Visualization**: Tableau, Power BI (DAX, Performance Tuning), Excel (VBA/Power Query).
 - **Narrative**: Executive Storytelling, Behavioral Heuristics, ROI Modeling.
 
----
+<div align="center">
+  <img src="separator.svg" width="80%">
+</div>
 
 ## 📬 Let's Talk Strategy
 I am currently open to **Strategic Consultancies** and **High-Impact Analytics** roles in FAANG/Unicorn environments. I specialize in 1–8 week sprints that turn messy data into clear, actionable roadmaps.
 
-- **LinkedIn**: [linkedin.com/in/aalaio](https://linkedin.com)
-- **Consultancy**: [Schedule a Strategy Call](mailto:you@your.email)
+- **LinkedIn**: [linkedin.com/in/ariel-alaio](https://www.linkedin.com/in/ariel-alaio)
+- **Consultancy**: [alaioariel@gmail.com](mailto:alaioariel@gmail.com)
 
----
+<div align="center">
+  <img src="separator.svg" width="80%">
+</div>
 
 <!-- LAST_UPDATED_START -->
 <!-- LAST_UPDATED_END -->

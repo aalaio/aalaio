@@ -30,7 +30,7 @@
   <text x="960" y="99" font-family="'Courier New', Courier, monospace" font-size="12" fill="#888888" text-anchor="middle" letter-spacing="1">terminal - zsh</text>
 
   <!-- Title & USP Text -->
-  <text x="960" y="150" font-family="'Courier New', Courier, monospace" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">Welcome to Ariel's GitHub</text>
+  <text x="960" y="150" font-family="'Courier New', Courier, monospace" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="3">Ariel — Data Strategy Consultant</text>
   <text x="960" y="200" font-family="'Courier New', Courier, monospace" font-size="18" font-weight="normal" fill="#cccccc" text-anchor="middle" letter-spacing="2">&gt; Data analysis with one goal: measurable impact_</text>
   
   <text x="960" y="240" font-family="'Courier New', Courier, monospace" font-size="28" font-weight="normal" fill="#555555" text-anchor="middle" letter-spacing="8">&lt; / &gt;</text>
