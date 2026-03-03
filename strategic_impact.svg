@@ -1,0 +1,28 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <linearGradient id="impact_grad" x1="0" y1="0" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Diamond -->
+  <rect x="100" y="20" width="113" height="113" transform="rotate(45 100 20)" fill="url(#impact_grad)" stroke="white" stroke-opacity="0.1" stroke-width="1"/>
+  
+  <!-- Dynamic Lightning/Impact Path -->
+  <path d="M70 110L110 70L90 70L130 30" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <animate attributeName="stroke-dasharray" from="0 150" to="150 0" dur="2s" repeatCount="indefinite" />
+  </path>
+  
+  <!-- Base Support Lines -->
+  <line x1="60" y1="140" x2="140" y2="140" stroke="white" stroke-opacity="0.2" stroke-width="2"/>
+  <line x1="80" y1="150" x2="120" y2="150" stroke="white" stroke-opacity="0.1" stroke-width="1"/>
+  
+  <!-- Small impact circles -->
+  <circle cx="100" cy="100" r="40" stroke="white" stroke-opacity="0.05" stroke-width="1"/>
+  <circle cx="100" cy="100" r="60" stroke="white" stroke-opacity="0.03" stroke-width="1"/>
+</svg>
