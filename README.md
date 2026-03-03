@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg?v=7" width="100%">
+  <img src="banner.png" width="100%">
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="separator.svg?v=6" width="100%">
+  <img src="separator.png" width="100%">
 </div>
 
 <h1 align="center">Data Analyst — high-impact analytics, production-ready delivery</h1>
@@ -26,7 +26,7 @@
 Data Analyst with deep, hands-on expertise across end-to-end analytics: **data engineering patterns**, **production-ready SQL**, **robust Python analysis**, and **executive dashboards** that lead to measurable action. Ready to join teams that expect immediate impact.
 
 <div align="center">
-  <img src="separator.svg?v=6" width="100%">
+  <img src="separator.png" width="100%">
 </div>
 
 ## 👤 About Me
@@ -38,13 +38,13 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       <p><i>Preferred industries: Fintech · E-commerce · Health · SaaS — but I adapt quickly to any data stack and product.</i></p>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/descarga (1).gif" width="220">
+      <img src="animaciones/vortex_about.gif" width="280">
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="separator.svg?v=6" width="100%">
+  <img src="separator.png" width="100%">
 </div>
 
 ## ⚡ Key Strengths
@@ -62,13 +62,13 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="data_vortex.svg" width="200">
+      <img src="animaciones/vortex_main.gif" width="280">
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="separator.svg?v=6" width="100%">
+  <img src="separator.png" width="100%">
 </div>
 
 ## 🛠 Technical Arsenal — Top 1% Data Analyst
@@ -116,7 +116,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/Etienne Jacob_  Spectacular Black & White Vortices.gif" width="180">
+      <img src="animaciones/vortex_tech.gif" width="250">
     </td>
   </tr>
 </table>
@@ -143,7 +143,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
 **Reproducibility:** Docker · Tests · GitHub / CI.
 
 <div align="center">
-  <img src="separator.svg?v=6" width="100%">
+  <img src="separator.png" width="100%">
 </div>
 
 ## � Projects Portfolio
@@ -184,13 +184,13 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </table>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/descarga (2).gif" width="180">
+      <img src="animaciones/vortex_projects.gif" width="250">
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="separator.svg?v=6" width="100%">
+  <img src="separator.png" width="100%">
 </div>
 
 ## �🔍 How I Work — Practical Process
@@ -207,7 +207,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </ol>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/descarga.gif" width="180">
+      <img src="animaciones/vortex_work.gif" width="250">
     </td>
   </tr>
 </table>
@@ -234,7 +234,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </ol>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/6faefbc082c3eedb81df2a1c18c12ee6_gif 600×600 pixels.gif" width="180">
+      <img src="animaciones/vortex_main.gif" width="250">
     </td>
   </tr>
 </table>
