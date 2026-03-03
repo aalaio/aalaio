@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ariel-alaio" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:alaioariel@gmail.com">
+  <a href="mailto:alaioariel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/aalaio">
@@ -124,7 +124,7 @@ Everything is delivered with reproducibility and handoff in mind.
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ariel-alaio" target="_blank">LinkedIn</a> • 
-  <a href="mailto:alaioariel@gmail.com">Email</a> • 
+  <a href="mailto:alaioariel@gmail.com" target="_blank">Email</a> • 
   <a href="https://github.com/aalaio">GitHub</a>
 </p>
 
