@@ -80,7 +80,19 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
   <img src="separator.svg?v=6" width="100%">
 </div>
 
-## 🔍 How I Work — Practical Process
+## � Projects Portfolio
+
+| Project | Metric / Impact | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Project Alpha** | e.g. +12% Recovery | SQL · Python · Tableau | [View Repo](#) |
+| **Project Beta** | e.g. -40h/week manual | Python · Airflow | [View Repo](#) |
+| **Project Gamma** | e.g. Predictive Churn | SQL · Scikit-Learn | [View Repo](#) |
+
+<div align="center">
+  <img src="separator.svg?v=6" width="100%">
+</div>
+
+## �🔍 How I Work — Practical Process
 I follow a repeatable, outcome-first workflow that turns questions into deployable analytics and clear actions.
 
 <div align="center">
