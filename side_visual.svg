@@ -1,17 +1,7 @@
-<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Minimalist Cat Silhouette looking Left/Up towards the text -->
-  <g fill="white" fill-opacity="0.8">
-    <!-- Body -->
-    <path d="M280 350 C 280 300 250 220 220 180 C 200 150 180 140 180 100 C 180 80 190 70 200 60 L 170 40 L 150 70 C 140 90 140 120 150 150 C 160 180 180 220 180 300 C 180 330 150 350 120 350 H 300 Z" stroke="white" stroke-width="2" stroke-linejoin="round"/>
-    
-    <!-- Ears (Minimalist triangles) -->
-    <path d="M175 55 L 160 30 L 185 45 Z" />
-    <path d="M205 65 L 225 40 L 215 70 Z" />
-    
-    <!-- Subtle Glow/Detail -->
-    <circle cx="185" cy="85" r="2" fill="black" fill-opacity="0.5"/> <!-- Eye area -->
-  </g>
-  <!-- Background atmosphere -->
-  <circle cx="300" cy="100" r="1" fill="white" fill-opacity="0.2"/>
-  <circle cx="100" cy="300" r="0.5" fill="white" fill-opacity="0.1"/>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Solid Monochrome Cat Silhouette (Enhanced Compatibility) -->
+  <rect width="400" height="400" fill="transparent"/>
+  <path d="M280 370 C 280 320 260 200 220 160 C 200 130 180 120 180 80 C 180 60 190 50 200 40 L 170 20 L 150 50 C 140 70 140 100 150 130 C 160 160 180 200 180 320 C 180 350 150 370 120 370 H 300 Z" fill="white"/>
+  <path d="M175 35 L 160 10 L 185 25 Z" fill="white"/>
+  <path d="M205 45 L 225 30 L 215 50 Z" fill="white"/>
 </svg>
