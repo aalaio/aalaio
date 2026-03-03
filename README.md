@@ -38,7 +38,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       <p><i>Preferred industries: Fintech · E-commerce · Health · SaaS — but I adapt quickly to any data stack and product.</i></p>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/descarga (1).gif" width="180">
+      <img src="animaciones/descarga%20%281%29.gif" width="180">
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/6faefbc082c3eedb81df2a1c18c12ee6_gif 600×600 pixels.gif" width="180">
+      <img src="animaciones/6faefbc082c3eedb81df2a1c18c12ee6_gif%20600%C3%97600%20pixels.gif" width="180">
     </td>
   </tr>
 </table>
@@ -116,7 +116,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/Etienne Jacob_  Spectacular Black & White Vortices.gif" width="180">
+      <img src="animaciones/Etienne%20Jacob_%20%20Spectacular%20Black%20%26%20White%20Vortices.gif" width="180">
     </td>
   </tr>
 </table>
@@ -184,7 +184,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </table>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/descarga (2).gif" width="180">
+      <img src="animaciones/descarga%20%282%29.gif" width="180">
     </td>
   </tr>
 </table>
@@ -234,7 +234,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       </ol>
     </td>
     <td width="35%" align="center">
-      <img src="animaciones/6faefbc082c3eedb81df2a1c18c12ee6_gif 600×600 pixels.gif" width="180">
+      <img src="animaciones/6faefbc082c3eedb81df2a1c18c12ee6_gif%20600%C3%97600%20pixels.gif" width="180">
     </td>
   </tr>
 </table>
