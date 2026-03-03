@@ -59,22 +59,66 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
   <img src="separator.svg?v=6" width="100%">
 </div>
 
-## 🛠 Technical Arsenal
+## 🛠 Technical Arsenal — Top 1% Data Analyst
 
-### Analysis & Cleaning
-<img src="https://img.shields.io/badge/EXCEL-000000?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/SQL_Postgres/BQ/RS-000000?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/PYTHON_pandas/numpy-000000?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JUPYTER-000000?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+### Core — The Big Three (visually dominant)
+![Excel](https://img.shields.io/badge/Excel-39%25-107C10?logo=microsoft-excel) ![SQL](https://img.shields.io/badge/SQL-31%25-2b7489?logo=postgresql) ![Tableau](https://img.shields.io/badge/Tableau-21%25-e87722?logo=tableau)
 
-### Visualization & Storytelling
-<img src="https://img.shields.io/badge/TABLEAU-000000?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"> <img src="https://img.shields.io/badge/POWER_BI-000000?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/EXCEL_DASHBOARDS-000000?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+- **Microsoft Excel** — Power Query, pivot-driven analysis, quick financial and operational models; go-to for rapid stakeholder-ready summaries.
+- **SQL (Postgres / BigQuery / Redshift)** — Advanced SQL: Window functions (ROW_NUMBER, RANK, LAG/LEAD), CTEs, subqueries, self-joins, analytic aggregates, partitioned aggregations and performance-aware patterns for production analytics.
+- **Tableau** — Executive landing pages, KPI-first design, parameterized filters and “what-to-do-next” panels.
 
-### Data Infra & Engineering
-<img src="https://img.shields.io/badge/DBT-000000?style=flat-square&logo=dbt&logoColor=white" alt="dbt"> <img src="https://img.shields.io/badge/AIRFLOW/PREFECT-000000?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow"> <img src="https://img.shields.io/badge/BIGQUERY/SNOWFLAKE-000000?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud"> <img src="https://img.shields.io/badge/S3-000000?style=flat-square&logo=amazons3&logoColor=white" alt="S3"> <img src="https://img.shields.io/badge/GIT/GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="Git">
+### Data Programming & Python (practical depth)
+![Python](https://img.shields.io/badge/Python-pandas-306998?logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-F37626?logo=jupyter)
 
-### ML & Modeling (Practical)
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/LIGHTGBM-000000?style=flat-square&logo=google&logoColor=white" alt="LightGBM"> <img src="https://img.shields.io/badge/CAUSAL_INFERENCE-000000?style=flat-square&logo=target&logoColor=white" alt="Causal">
+- **Python (pandas / numpy)** — ETL at scale, feature engineering, aggregated pivots, and reproducible transform scripts that feed dashboards or models.
+- **Key libraries**: pandas (table manipulation & joins), seaborn (clean, presentation-ready visualizations), scikit-learn (practical models: scoring, classification, cross-val pipelines).
+- **Jupyter** — Narrative notebooks with assumptions, EDA, and “how-to-run” cells for fast handoff.
 
-### DevOps & Reproducibility
-<img src="https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/UNIT_TESTS-000000?style=flat-square&logo=checktrack&logoColor=white" alt="Tests"> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=flat-square&logo=githubactions&logoColor=white" alt="Actions">
+### Documentation & Data Architecture
+- **ERD (Entity Relationship Diagram)**: Map tables, keys, and join paths so analysts and engineers share a single source of truth.
+- **Data Dictionary**: Column definitions, types, allowed ranges, and business meaning — included with every project for stakeholder clarity.
+- **Metric spec (single-page)**: Canonical KPI definitions (SQL reference + tests) — prevents metric drift across dashboards and teams.
+
+### Business Skills — Insight & Impact
+- **KPIs & OKRs**: Design and instrument KPIs with success criteria and measurement windows.
+- **Funnel Analysis**: Drop-off points, conversion rates, and prioritized fixes with estimated impact.
+- **Cohort Retention**: Survival curves, retention cohorts, and lifetime value proxies.
+- **Churn Analysis**: Risk scoring + prioritized outreach lists; quantify business impact.
+- **Quantification**: Every finding includes conservative and optimistic impact estimates (revenue, time saved, error reduction).
+
+### Visualization, Storytelling & EDA
+- **Exploratory Data Analysis (EDA)**: Signal detection, outlier handling, and rapid hypothesis curation.
+- **Data Storytelling**: One-page executive narrative + 3-slide summary that follows insight → decision → metric to watch.
+- **Looker Studio**: Lightweight cloud reporting for fast marketing/GA dashboards and BigQuery-connected visualizations.
+- **Also**: Power BI for operational monitoring and Excel for rapid stakeholder prototyping.
+
+### Advanced / Engineering
+- **dbt**: modular SQL models, tests, and canonical transformations.
+- **Orchestration (Airflow / Prefect)**: DAG design & scheduling notes for handoff.
+- **Data storage**: BigQuery / Snowflake patterns & S3 usage for data lakes.
+- **ML (practical)**: LightGBM / scikit-learn for scoring and uplift experiments.
+
+### Low-code / Automation
+- **KNIME**: visual, low-code workflows for end-to-end analytics.
+- **n8n**: workflow automation & connectors for event-driven tasks and API glue.
+- **APIs & Google Takeout**: Ingest data from nonstandard sources and normalize into analysis-ready tables.
+
+### Reproducibility & DevOps
+- **Docker** — Lightweight environments for reproducibility.
+- **Tests & CI**: Smoke tests, metric sanity checks, and GitHub Actions for scheduled jobs.
+
+---
+
+### 📝 Summary Block
+**Core:** ![Excel](https://img.shields.io/badge/Excel-39%25-107C10) ![SQL](https://img.shields.io/badge/SQL-31%25-2b7489) ![Tableau](https://img.shields.io/badge/Tableau-21%25-e87722)
+**SQL (advanced):** Window functions, CTEs, subqueries, partitioned aggregations.  
+**Python:** pandas · numpy · seaborn · scikit-learn — ETL, EDA, models.  
+**Docs & Architecture:** ERD · Data Dictionary · Metric spec.  
+**Viz & Storytelling:** Tableau · Power BI · Looker Studio.  
+**Business analysis:** Funnel analysis · Cohort retention · Churn detection.  
+**Automation / Low-code:** KNIME · n8n · APIs · GitHub Actions.  
+**Reproducibility:** Docker · Tests · GitHub / CI.
 
 <div align="center">
   <img src="separator.svg?v=6" width="100%">
