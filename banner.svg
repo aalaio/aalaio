@@ -1,62 +1,47 @@
-<svg width="1920" height="480" viewBox="0 0 1920 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050505"/>
-      <stop offset="100%" stop-color="#000000"/>
+    <linearGradient id="sky_grad" x1="640" y1="0" x2="640" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A1A1A"/>
+      <stop offset="1" stop-color="#000000"/>
     </linearGradient>
-    <filter id="grain">
-      <feTurbulence type="fractalNoise" baseFrequency="0.6" numOctaves="3" stitchTiles="stitch"/>
-      <feColorMatrix type="saturate" values="0"/>
-      <feComponentTransfer>
-        <feFuncA type="linear" slope="0.05"/>
-      </feComponentTransfer>
-    </filter>
-    <linearGradient id="line_grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    <linearGradient id="mtn_grad_1" x1="640" y1="180" x2="640" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111111"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="mtn_grad_2" x1="640" y1="220" x2="640" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080808"/>
+      <stop offset="1" stop-color="#000000"/>
     </linearGradient>
   </defs>
 
-  <!-- Base Layer -->
-  <rect width="1920" height="480" fill="url(#bg_grad)"/>
-  <rect width="1920" height="480" fill="white" filter="url(#grain)" opacity="0.3"/>
+  <!-- Sky -->
+  <rect width="1280" height="320" fill="url(#sky_grad)"/>
+  
+  <!-- Subtle Stars -->
+  <circle cx="200" cy="50" r="1" fill="white" fill-opacity="0.3"/>
+  <circle cx="1100" cy="80" r="0.8" fill="white" fill-opacity="0.2"/>
+  <circle cx="640" cy="30" r="1.2" fill="white" fill-opacity="0.4"/>
+  <circle cx="400" cy="120" r="0.5" fill="white" fill-opacity="0.1"/>
 
-  <!-- Parallax Data Lines -->
-  <path d="M0 100 L1920 180" stroke="url(#line_grad)" stroke-width="1"/>
-  <path d="M0 200 L1920 120" stroke="url(#line_grad)" stroke-width="0.5"/>
-  <path d="M0 350 L1920 280" stroke="url(#line_grad)" stroke-width="1.5" stroke-dasharray="100 50"/>
-  <path d="M0 400 L1920 320" stroke="url(#line_grad)" stroke-width="1" opacity="0.5"/>
-
-  <!-- Geometric Accents -->
-  <circle cx="1700" cy="150" r="100" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
-  <circle cx="200" cy="350" r="150" stroke="#ffffff" stroke-opacity="0.02" stroke-width="2"/>
-
-  <!-- Glassmorphism Terminal Window -->
-  <g transform="translate(610, 100)">
-    <!-- Shadow -->
-    <rect x="5" y="5" width="700" height="220" rx="8" fill="#000000" fill-opacity="0.4"/>
-    <!-- Glass Base -->
-    <rect width="700" height="220" rx="8" fill="#111111" fill-opacity="0.7"/>
-    <rect width="700" height="220" rx="8" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
+  <!-- Back Mountains/Dunes -->
+  <path d="M0 240 Q 320 180 640 240 T 1280 220 V 320 H 0 Z" fill="url(#mtn_grad_1)"/>
+  
+  <!-- Front Mountains/Dunes -->
+  <path d="M-50 280 Q 400 220 800 280 T 1330 260 V 320 H -50 Z" fill="url(#mtn_grad_2)"/>
+  
+  <!-- Centered Terminal Window (Mobile Safe) -->
+  <g transform="translate(390, 60)">
+    <rect width="500" height="160" rx="8" fill="#000000" fill-opacity="0.8" stroke="#333333" stroke-width="1"/>
+    <!-- Terminal Header -->
+    <rect width="500" height="30" rx="4" fill="#111111"/>
+    <circle cx="15" cy="15" r="4" fill="#333333"/>
+    <circle cx="30" cy="15" r="4" fill="#333333"/>
+    <circle cx="45" cy="15" r="4" fill="#333333"/>
+    <text x="250" y="20" font-family="monospace" font-size="10" fill="#666666" text-anchor="middle" letter-spacing="1">terminal - ssh</text>
     
-    <!-- Header -->
-    <path d="M0 8 a8 8 0 0 1 8 -8 h684 a8 8 0 0 1 8 8 v32 h-700 z" fill="#ffffff" fill-opacity="0.03"/>
-    <circle cx="25" cy="20" r="5" fill="#333333"/>
-    <circle cx="45" cy="20" r="5" fill="#333333"/>
-    <circle cx="65" cy="20" r="5" fill="#333333"/>
-    <text x="350" y="24" font-family="monospace" font-size="12" fill="#666666" text-anchor="middle" letter-spacing="2">ARIEL_DATA_STRATEGY_v3.0</text>
-
-    <!-- Main Content -->
-    <text x="350" y="90" font-family="monospace" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="4">ARIEL</text>
-    <text x="350" y="130" font-family="monospace" font-size="16" fill="#888888" text-anchor="middle" letter-spacing="6">STRATEGIC DATA CONSULTANT</text>
-    
-    <!-- Animated Cursor Prompt -->
-    <rect x="250" y="160" width="200" height="1" fill="#ffffff" fill-opacity="0.2"/>
-    <text x="350" y="190" font-family="monospace" font-size="14" fill="#ffffff" fill-opacity="0.4" text-anchor="middle">&gt; translating behavior into ROI_</text>
+    <!-- Title -->
+    <text x="250" y="85" font-family="monospace" font-size="28" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="2">Ariel -- Data Analyst</text>
+    <text x="250" y="115" font-family="monospace" font-size="12" fill="#AAAAAA" text-anchor="middle" letter-spacing="1">&gt; Data analysis with one goal: measurable impact_</text>
+    <text x="250" y="145" font-family="monospace" font-size="16" fill="#444444" text-anchor="middle">&lt; / &gt;</text>
   </g>
-
-  <!-- Border Accents -->
-  <line x1="0" y1="0" x2="1920" y2="0" stroke="#ffffff" stroke-opacity="0.1" stroke-width="2"/>
-  <line x1="0" y1="480" x2="1920" y2="480" stroke="#ffffff" stroke-opacity="0.1" stroke-width="2"/>
 </svg>

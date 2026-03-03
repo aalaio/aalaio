@@ -1,20 +1,7 @@
-<svg width="1000" height="60" viewBox="0 0 1000 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="sep_grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <!-- Background subtle glow -->
-  <rect x="250" y="28" width="500" height="4" rx="2" fill="url(#sep_grad)"/>
-  
-  <!-- Main Path (The Pulse) -->
-  <path d="M0 30 H400 L410 20 L425 40 L440 10 L460 50 L480 20 L500 30 H520 L540 10 L560 50 L575 20 L590 40 L600 30 H1000" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
-  <path d="M410 30 H590" stroke="#ffffff" stroke-opacity="0.4" stroke-width="2" stroke-linecap="round"/>
-  
-  <!-- Geometric Core -->
-  <circle cx="500" cy="30" r="4" fill="#ffffff" fill-opacity="0.8"/>
-  <circle cx="500" cy="30" r="10" stroke="#ffffff" stroke-opacity="0.2" stroke-width="1"/>
-  <rect x="495" y="25" width="10" height="10" transform="rotate(45 500 30)" stroke="#ffffff" stroke-opacity="0.5" stroke-width="0.5"/>
+<svg width="1000" height="40" viewBox="0 0 1000 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ultra-minimalist horizontal line -->
+  <path d="M0 20 H440 L450 10 L460 30 L470 10 L530 10 L540 30 L550 10 L560 20 H1000" stroke="#333333" stroke-width="1" stroke-opacity="0.6"/>
+  <!-- Central Highlight -->
+  <circle cx="500" cy="20" r="3" fill="#FFFFFF" fill-opacity="0.8"/>
+  <text x="500" y="32" font-family="monospace" font-size="8" fill="#444444" text-anchor="middle">&lt; / &gt;</text>
 </svg>
