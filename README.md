@@ -2,11 +2,11 @@
 ### Behavioral Insights · Data Strategy · Business Intelligence (ROI-Driven)
 
 <div align="center">
-  <img src="banner.svg?v=1" alt="Ariel Banner" width="100%">
+  <img src="banner.svg?v=2" alt="Ariel Banner" width="100%">
 </div>
 
 <div align="center">
-  <img src="separator.svg?v=1" width="80%">
+  <img src="separator.svg?v=2" width="80%">
 </div>
 
 ## 🎯 Value Proposition: The ROI of Behavioral Intelligence
@@ -17,7 +17,7 @@ With a formal background in **Psychology**, I specialize in decoding human behav
 > "Data is just a digital footprint of human behavior. Understanding the human behind the click is the difference between a report and a strategy."
 
 <div align="center">
-  <img src="separator.svg?v=1" width="80%">
+  <img src="separator.svg?v=2" width="80%">
 </div>
 
 ## 🌉 The Human-Data Bridge (My Process)
@@ -28,11 +28,11 @@ I transform technical complexity into persuasive business narratives through a s
 3.  **Strategic Delivery**: Translating findings into **Tableau/Power BI** executive dashboards and one-page ROI reports that prioritize "Next Best Actions."
 
 <div align="center">
-  <img src="workflow_viz.svg?v=1" alt="Strategic Workflow" width="80%">
+  <img src="workflow_viz.svg?v=2" alt="Strategic Workflow" width="80%">
 </div>
 
 <div align="center">
-  <img src="separator.svg?v=1" width="80%">
+  <img src="separator.svg?v=2" width="80%">
 </div>
 
 ## 🚀 Alpha Projects (READY Framework)
@@ -45,7 +45,7 @@ I transform technical complexity into persuasive business narratives through a s
 | **Churn Mitigation** | SQL · Jupyter · Power BI | Behavioral clustering to predict "at-risk" users based on interaction frequency. | 🔵 Planned |
 
 <div align="center">
-  <img src="separator.svg?v=1" width="80%">
+  <img src="separator.svg?v=2" width="80%">
 </div>
 
 ## 🛠 Strategic Stack
@@ -54,7 +54,7 @@ I transform technical complexity into persuasive business narratives through a s
 - **Narrative**: Executive Storytelling, Behavioral Heuristics, ROI Modeling.
 
 <div align="center">
-  <img src="separator.svg?v=1" width="80%">
+  <img src="separator.svg?v=2" width="80%">
 </div>
 
 ## 📬 Let's Talk Strategy
@@ -64,7 +64,7 @@ I am currently open to **Strategic Consultancies** and **High-Impact Analytics**
 - **Consultancy**: [alaioariel@gmail.com](mailto:alaioariel@gmail.com)
 
 <div align="center">
-  <img src="separator.svg?v=1" width="80%">
+  <img src="separator.svg?v=2" width="80%">
 </div>
 
 <!-- LAST_UPDATED_START -->
