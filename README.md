@@ -20,7 +20,7 @@
 
 <h1 align="center">Data Analyst — high-impact analytics, production-ready delivery</h1>
 
-## 👋Ariel — Hi!
+## 👋riel — Hi!
 > I turn data into decisions that increase revenue, cut costs, and speed up operations.
 
 Data Analyst with deep, hands-on expertise across end-to-end analytics: **data engineering patterns**, **production-ready SQL**, **robust Python analysis**, and **executive dashboards** that lead to measurable action. Ready to join teams that expect immediate impact.
@@ -38,7 +38,7 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
       <p><i>Preferred industries: Fintech · E-commerce · Health · SaaS — but I adapt quickly to any data stack and product.</i></p>
     </td>
     <td width="35%" align="center">
-      <img src="side_visual.svg?v=16" width="220">
+      <img src="animaciones/descarga (1).gif" width="220">
     </td>
   </tr>
 </table>
@@ -48,12 +48,24 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
 </div>
 
 ## ⚡ Key Strengths
-- **End-to-end analytics:** data ingestion → cleaning → modeling → visualization → monitoring.
-- **Production-ready SQL:** optimizing window functions, partitioned aggregations, materialized views.
-- **Python for analysts:** pandas-first ETL, statistical tests, simple models and feature engineering.
-- **Dashboard-first storytelling** that converts analysis into prioritized actions.
-- **Automation & pipelines:** reproducible notebooks, scheduled jobs, and small ETL scripts.
-- **Clear handoffs:** code, tests, queries, and 1–2 page executive summaries ready for engineers and PMs.
+
+<table>
+  <tr>
+    <td width="65%">
+      <ul>
+        <li><b>End-to-end analytics:</b> data ingestion → cleaning → modeling → visualization → monitoring.</li>
+        <li><b>Production-ready SQL:</b> optimizing window functions, partitioned aggregations, materialized views.</li>
+        <li><b>Python for analysts:</b> pandas-first ETL, statistical tests, simple models and feature engineering.</li>
+        <li><b>Dashboard-first storytelling</b> that converts analysis into prioritized actions.</li>
+        <li><b>Automation & pipelines:</b> reproducible notebooks, scheduled jobs, and small ETL scripts.</li>
+        <li><b>Clear handoffs:</b> code, tests, queries, and 1–2 page executive summaries ready for engineers and PMs.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="data_vortex.svg" width="200">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="separator.svg?v=6" width="100%">
@@ -92,11 +104,22 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
 - **Looker Studio**: Lightweight cloud reporting for fast marketing/GA dashboards and BigQuery-connected visualizations.
 - **Also**: Power BI for operational monitoring and Excel for rapid stakeholder prototyping.
 
-### Advanced / Engineering
-- **dbt**: modular SQL models, tests, and canonical transformations.
-- **Orchestration (Airflow / Prefect)**: DAG design & scheduling notes for handoff.
-- **Data storage**: BigQuery / Snowflake patterns & S3 usage for data lakes.
-- **ML (practical)**: LightGBM / scikit-learn for scoring and uplift experiments.
+<table>
+  <tr>
+    <td width="65%">
+      <h3>Advanced / Engineering</h3>
+      <ul>
+        <li><b>dbt</b>: modular SQL models, tests, and canonical transformations.</li>
+        <li><b>Orchestration (Airflow / Prefect)</b>: DAG design & scheduling notes for handoff.</li>
+        <li><b>Data storage</b>: BigQuery / Snowflake patterns & S3 usage for data lakes.</li>
+        <li><b>ML (practical)</b>: LightGBM / scikit-learn for scoring and uplift experiments.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="animaciones/Etienne Jacob_  Spectacular Black & White Vortices.gif" width="180">
+    </td>
+  </tr>
+</table>
 
 ### Low-code / Automation
 - **KNIME**: visual, low-code workflows for end-to-end analytics.
@@ -125,41 +148,96 @@ Data Analyst with deep, hands-on expertise across end-to-end analytics: **data e
 
 ## � Projects Portfolio
 
-| Project | Metric / Impact | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project Alpha** | e.g. +12% Recovery | SQL · Python · Tableau | [View Repo](#) |
-| **Project Beta** | e.g. -40h/week manual | Python · Airflow | [View Repo](#) |
-| **Project Gamma** | e.g. Predictive Churn | SQL · Scikit-Learn | [View Repo](#) |
+<table>
+  <tr>
+    <td width="65%">
+      <p>A strategic selection of case studies demonstrating technical depth and business impact.</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Metric / Impact</th>
+            <th>Stack</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>Project Alpha</b></td>
+            <td>e.g. +12% Recovery</td>
+            <td>SQL · Python · Tableau</td>
+            <td><a href="#">View Repo</a></td>
+          </tr>
+          <tr>
+            <td><b>Project Beta</b></td>
+            <td>e.g. -40h/week manual</td>
+            <td>Python · Airflow</td>
+            <td><a href="#">View Repo</a></td>
+          </tr>
+          <tr>
+            <td><b>Project Gamma</b></td>
+            <td>e.g. Predictive Churn</td>
+            <td>SQL · Scikit-Learn</td>
+            <td><a href="#">View Repo</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td width="35%" align="center">
+      <img src="animaciones/descarga (2).gif" width="180">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="separator.svg?v=6" width="100%">
 </div>
 
 ## �🔍 How I Work — Practical Process
-I follow a repeatable, outcome-first workflow that turns questions into deployable analytics and clear actions.
+<table>
+  <tr>
+    <td width="65%">
+      <p>I follow a repeatable, outcome-first workflow that turns questions into deployable analytics and clear actions.</p>
+      <ol>
+        <li><b>Clarify the question & success metric (🤝)</b>: Define the business question and target KPI up front.</li>
+        <li><b>Ingest, validate & document data (🧰)</b>: Load samples, run schema checks, and null/duplicate tests.</li>
+        <li><b>Focused EDA & hypothesis generation (🔎)</b>: fast, targeted exploration to find highest-leverage insights.</li>
+        <li><b>Design analysis & build artifacts for action (⚙️)</b>: Build production-ready SQL and clean Python notebooks.</li>
+        <li><b>Automate, monitor & hand off (📈)</b>: Wire in scheduled runs, alerts, and detailed runbooks.</li>
+      </ol>
+    </td>
+    <td width="35%" align="center">
+      <img src="animaciones/descarga.gif" width="180">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="workflow_viz.svg" width="80%">
 </div>
-
-1.  **Clarify the question & success metric (🤝)**: Define the business question and target KPI up front.
-2.  **Ingest, validate & document data (🧰)**: Load samples, run schema checks, and null/duplicate tests.
-3.  **Focused EDA & hypothesis generation (🔎)**: fast, targeted exploration to find highest-leverage insights.
-4.  **Design analysis & build artifacts for action (⚙️)**: Build production-ready SQL and clean Python notebooks.
-5.  **Automate, monitor & hand off (📈)**: Wire in scheduled runs, alerts, and detailed runbooks.
 
 <div align="center">
   <img src="separator.svg?v=6" width="100%">
 </div>
 
 ## ✅ Deliverables you’ll get
-Everything is delivered with reproducibility and handoff in mind.
 
-1.  **Reproducible analysis package**: Clean Jupyter notebooks with TL;DR, assumptions, and requirements.txt.
-2.  **Production-ready SQL bundle**: Parameterized SQL files with performance notes and validation scripts.
-3.  **Dashboards with playbook**: Tableau/Power BI designs with a "Recommended next actions" panel.
-4.  **Executive summary**: Problem statement, top findings, and quantified impact estimates.
-5.  **Handoff & automation artifacts**: README.md with runbook and GitHub Actions snippets.
+<table>
+  <tr>
+    <td width="65%">
+      <ol>
+        <li><b>Reproducible analysis package</b>: Clean Jupyter notebooks with TL;DR, assumptions, and requirements.txt.</li>
+        <li><b>Production-ready SQL bundle</b>: Parameterized SQL files with performance notes and validation scripts.</li>
+        <li><b>Dashboards with playbook</b>: Tableau/Power BI designs with a "Recommended next actions" panel.</li>
+        <li><b>Executive summary</b>: Problem statement, top findings, and quantified impact estimates.</li>
+        <li><b>Handoff & automation artifacts</b>: README.md with runbook and GitHub Actions snippets.</li>
+      </ol>
+    </td>
+    <td width="35%" align="center">
+      <img src="animaciones/6faefbc082c3eedb81df2a1c18c12ee6_gif 600×600 pixels.gif" width="180">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="separator.svg?v=6" width="100%">
@@ -191,6 +269,5 @@ Everything is delivered with reproducibility and handoff in mind.
   <img src="https://github-readme-stats.vercel.app/api?username=aalaio&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaio&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" width="48%">
 </p>
-
 
 
