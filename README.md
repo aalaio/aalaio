@@ -28,7 +28,7 @@
       <p><i>"Data is just a digital footprint of human behavior. Understanding the human behind the click is the difference between a report and a strategy."</i></p>
     </td>
     <td width="40%" align="center">
-      <img src="side_visual.svg?v=11" width="200">
+      <img src="dinosaur.jpg?v=12" width="200">
     </td>
   </tr>
 </table>
